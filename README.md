@@ -10,13 +10,13 @@
 **河北保定 · 独立开发者**
 前端可视化 · 量化工具 · 数字身份
 
-[GitHub](https://github.com/itboy365) · [主页](https://itboy.top) · [邮箱](mailto:admin@itboy.top)
-
 </div>
 
 ---
 
 ## 作品
+
+<br>
 
 <table>
 <tr>
@@ -28,8 +28,6 @@
 
 [看仓库](https://github.com/itboy365/life-timer) · [在线体验](https://itboy365.github.io/life-timer/)
 
-`CSS` `MIT`
-
 </td>
 <td width="50%" valign="top">
 
@@ -38,8 +36,6 @@
 基于 Canvas 的交互式烟花模拟器。粒子爆炸 · 重力下落 · 拖尾残影。纯前端零依赖。
 
 [看仓库](https://github.com/itboy365/yanhua)
-
-`JavaScript`
 
 </td>
 </tr>
@@ -52,8 +48,6 @@
 
 [看仓库](https://github.com/itboy365/itboy) · [在线访问](https://itboy.top)
 
-`HTML`
-
 </td>
 <td width="50%" valign="top">
 
@@ -62,8 +56,6 @@
 一张安静的互联网数字名片，独立开发者线上身份，河北保定。
 
 [看仓库](https://github.com/itboy365/jiaquan)
-
-`HTML`
 
 </td>
 </tr>
@@ -76,8 +68,6 @@
 
 [看仓库](https://github.com/itboy365/itboy-portal)
 
-`HTML` `Actions`
-
 </td>
 <td width="50%" valign="top">
 
@@ -87,11 +77,11 @@ A 股量化工作台 · 自托管 K 线大屏 · Docker 一键部署。8 大策�
 
 [看仓库](https://github.com/itboy365/ashare-quant-workbench)
 
-`Python` `Docker` `Flask` `SQLite` `MIT`
-
 </td>
 </tr>
 </table>
+
+<br>
 
 ---
 
@@ -105,7 +95,6 @@ A 股量化工作台 · 自托管 K 线大屏 · Docker 一键部署。8 大策�
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 从前端可视化到自托管全链路。
 
@@ -117,8 +106,10 @@ A 股量化工作台 · 自托管 K 线大屏 · Docker 一键部署。8 大策�
 
 <div align="center">
 
-**结构清晰 · 依赖可控 · 文档可读**
-零依赖优先 · 自托管优先 · 开箱即用
+**做有用的东西，不做花架子。**
+
+每个项目都有明确用途，每个仓库都有完整文档。
+能用纯前端解决的绝不加后端，能自托管的绝不依赖第三方。
 
 </div>
 
@@ -126,13 +117,6 @@ A 股量化工作台 · 自托管 K 线大屏 · Docker 一键部署。8 大策�
 
 <div align="center">
 
-欢迎交流：通过 [GitHub Issue](https://github.com/itboy365/itboy365/issues) 或 [私信](https://github.com/itboy365) 联系。
-邮箱 admin@itboy.top（低调备用）。
-
-继续发货，继续建设。
-
-![profile views](https://komarev.com/ghpvc/?username=itboy365&label=profile%20views&color=57606a&style=flat-square)
-![last commit](https://img.shields.io/github/last-commit/itboy365/itboy365?style=flat-square)
-![contributors](https://img.shields.io/github/contributors/itboy365/itboy365?style=flat-square)
+有想法或建议？欢迎通过 [GitHub Issue](https://github.com/itboy365/itboy365/issues) 交流。
 
 </div>
