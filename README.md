@@ -2,37 +2,21 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itboy365/itboy365/main/assets/banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itboy365/itboy365/main/assets/banner-light.svg">
-  <img alt="iTboy Banner" src="https://raw.githubusercontent.com/itboy365/itboy365/main/assets/banner-light.svg" width="100%">
+  <img alt="itboy banner" src="https://raw.githubusercontent.com/itboy365/itboy365/main/assets/banner-light.svg" width="100%">
 </picture>
-
-<br>
 
 # itboy
 
 **河北保定 · 独立开发者**
+前端可视化 · 量化工具 · 数字身份
 
-*前端可视化 · 量化工具 · 数字身份*
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-itboy365-181717?style=for-the-badge&logo=github)](https://github.com/itboy365)
-[![Website](https://img.shields.io/badge/主页-itboy.top-2f80ed?style=for-the-badge&logo=firefox-browser)](https://itboy.top)
-[![Email](https://img.shields.io/badge/邮箱-admin@itboy.top-ea4335?style=for-the-badge&logo=gmail)](mailto:admin@itboy.top)
-
-<br>
-
-![访问量](https://komarev.com/ghpvc/?username=itboy365&label=profile%20views&color=2f80ed&style=flat-square)
-![最后提交](https://img.shields.io/github/last-commit/itboy365/itboy365?style=flat-square&color=2f80ed)
-![贡献天数](https://img.shields.io/github/contributors/itboy365/itboy365?style=flat-square&color=2f80ed)
+[GitHub](https://github.com/itboy365) · [主页](https://itboy.top) · [邮箱](mailto:admin@itboy.top)
 
 </div>
 
 ---
 
-## 精选作品
-
-<br>
+## 作品
 
 <table>
 <tr>
@@ -40,26 +24,22 @@
 
 ### ⏳ life-timer
 
-> 一个优雅的人生仪表盘
+一个优雅的人生仪表盘。精确年龄、已活时间、人生进度、生日倒计时、生命周数与生命日历。纯前端，零依赖，开箱即用。
 
-精确年龄、已活时间、人生进度、生日倒计时、生命周数与生命日历。纯前端，零依赖，开箱即用。
+[看仓库](https://github.com/itboy365/life-timer) · [在线体验](https://itboy365.github.io/life-timer/)
 
-`CSS` `JavaScript` `MIT`
-
-[查看仓库](https://github.com/itboy365/life-timer)
+`CSS` `MIT`
 
 </td>
 <td width="50%" valign="top">
 
 ### 🎆 yanhua
 
-> 基于 Canvas 的交互式烟花模拟器
+基于 Canvas 的交互式烟花模拟器。粒子爆炸 · 重力下落 · 拖尾残影。纯前端零依赖。
 
-粒子爆炸 · 重力下落 · 拖尾残影。纯前端零依赖，开箱即用。
+[看仓库](https://github.com/itboy365/yanhua)
 
-`JavaScript` `MIT`
-
-[查看仓库](https://github.com/itboy365/yanhua) · [在线体验](https://itboy365.github.io/yanhua/)
+`JavaScript`
 
 </td>
 </tr>
@@ -68,26 +48,22 @@
 
 ### 🌐 itboy
 
-> 个人主页站点 · 作品聚合入口
+个人主页站点 · 作品聚合与日常记录。
 
-独立开发者线上展厅，聚合信息速览、金价观察、金融数据面板。
+[看仓库](https://github.com/itboy365/itboy) · [在线访问](https://itboy.top)
 
-`HTML` `CSS`
-
-[查看仓库](https://github.com/itboy365/itboy) · [在线访问](https://itboy.top)
+`HTML`
 
 </td>
 <td width="50%" valign="top">
 
 ### 💳 jiaquan
 
-> 一张安静的互联网数字名片
+一张安静的互联网数字名片，独立开发者线上身份，河北保定。
 
-独立开发者线上身份，河北保定。Less is more.
+[看仓库](https://github.com/itboy365/jiaquan)
 
-`HTML` `CSS`
-
-[查看仓库](https://github.com/itboy365/jiaquan) · [在线访问](https://jiaquan.top)
+`HTML`
 
 </td>
 </tr>
@@ -96,32 +72,26 @@
 
 ### 🚪 itboy-portal
 
-> 个人门户 · 每日自动更新
+门户静态产物 · 每日自动更新，聚合速览、热搜、金价等公开数据。
 
-每天三次自动聚合 60s 速览、AI 资讯、微博热搜、知乎热榜、金价、农历黄历等公开数据。
+[看仓库](https://github.com/itboy365/itboy-portal)
 
-`HTML` `GitHub Actions`
-
-[查看仓库](https://github.com/itboy365/itboy-portal) · [在线访问](https://www.itboy.top)
+`HTML` `Actions`
 
 </td>
 <td width="50%" valign="top">
 
 ### 📈 ashare-quant-workbench
 
-> A 股量化工作台 · 自托管 K 线大屏
+A 股量化工作台 · 自托管 K 线大屏 · Docker 一键部署。8 大策略共振 · 安检门风控 · AI 研报 · MCP 集成 · 中英文双语文档。
 
-8 大策略共振 · 安检门风控 · AI 深度研报 · MCP 集成 · 中英文双语文档。Docker 一键部署。
+[看仓库](https://github.com/itboy365/ashare-quant-workbench)
 
 `Python` `Docker` `Flask` `SQLite` `MIT`
-
-[查看仓库](https://github.com/itboy365/ashare-quant-workbench)
 
 </td>
 </tr>
 </table>
-
-<br>
 
 ---
 
@@ -137,6 +107,8 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
+从前端可视化到自托管全链路。
+
 </div>
 
 ---
@@ -146,8 +118,7 @@
 <div align="center">
 
 **结构清晰 · 依赖可控 · 文档可读**
-
-*零依赖优先 · 自托管优先 · 开箱即用*
+零依赖优先 · 自托管优先 · 开箱即用
 
 </div>
 
@@ -155,12 +126,13 @@
 
 <div align="center">
 
-**欢迎交流**
+欢迎交流：通过 [GitHub Issue](https://github.com/itboy365/itboy365/issues) 或 [私信](https://github.com/itboy365) 联系。
+邮箱 admin@itboy.top（低调备用）。
 
-通过 [GitHub Issue](https://github.com/itboy365/itboy365/issues) 或 [私信](mailto:admin@itboy.top) 联系
+继续发货，继续建设。
 
-<br>
-
-*Keep shipping. Keep building.*
+![profile views](https://komarev.com/ghpvc/?username=itboy365&label=profile%20views&color=57606a&style=flat-square)
+![last commit](https://img.shields.io/github/last-commit/itboy365/itboy365?style=flat-square)
+![contributors](https://img.shields.io/github/contributors/itboy365/itboy365?style=flat-square)
 
 </div>
